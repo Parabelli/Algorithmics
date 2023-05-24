@@ -5,7 +5,7 @@ file_version: 1.1.2
 app_version: 1.9.8
 ---
 
-It is what it is
+This code snippet creates a readline interface and prompts the user to enter two phrases. It then concatenates the two phrases and logs the resulting string to the console. Finally, it closes the readline interface.
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 01_variables/2_concatenate_sentence.js
 ```javascript
